@@ -1,0 +1,390 @@
+.btn-primary {
+    background-color: #0062af !important;
+    font-size: 1.5rem;
+}
+
+.top_bar {
+    background-color: #F0F0F0;
+}
+
+.light-gray {
+    background-color: #FAFAFA;
+}
+
+.color-gray {
+    color: #787878;
+}
+
+.top_menu {
+    margin: 0 50px;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+.nav-link {
+    color: #787878;
+    font-size: 1.3rem;
+}
+
+p {
+    color: #787878;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero .small-text {
+    font-size: 13px;
+}
+
+.video iframe {
+    width: 100%;
+}
+
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+    font-weight: bold !important;
+}
+
+.card-box img {
+    width: 280px;
+    height: 280px;
+}
+
+.video-box iframe {
+    width: 100%;
+    height: 312px;
+    margin-bottom: 15px;
+}
+
+.item {
+    align-items: center;
+    background-color: tomato;
+    color: white;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+}
+
+.img-slider img {
+
+    height: 400px;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    width: 18px;
+    height: 18px;
+}
+
+#sync1 .item {
+    background: #0c83e7;
+    padding: 80px 0px;
+    margin: 5px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#sync2 .item {
+    background: #C9C9C9;
+    padding: 10px 0px;
+    margin: 5px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#sync2 .item h1 {
+    font-size: 18px;
+}
+
+#sync2 .current .item {
+    background: #0c83e7;
+}
+
+.owl-theme .owl-nav [class*='owl-'] {
+    transition: all .3s ease;
+}
+
+.owl-theme .owl-nav [class*='owl-'].disabled:hover {
+    background-color: #D6D6D6;
+}
+
+
+.owl-next,
+.owl-prev {
+    width: 22px;
+    height: 40px;
+    margin-top: -20px;
+    position: absolute;
+    top: 35%;
+}
+
+.owl-prev {
+    left: -40px;
+}
+
+.owl-next {
+    right: -40px;
+}
+
+.video_slider iframe {
+    border-radius: 10px;
+}
+
+.SUBSCRIBE {
+    background-color: #404040;
+    height: 107px;
+    margin-bottom: -30px;
+    width: 100%;
+}
+
+.title_SUBSCRIBE {
+    color: #fff;
+    display: inline;
+    font-size: 28px;
+    line-height: 75px;
+    padding-top: 23px;
+    text-align: left;
+}
+
+.more_row {
+    display: inline;
+}
+
+.title_SUBSCRIBE::after {
+    content: url('../img/vaskl.png');
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.SUBSCRIBE_input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 20px;
+    height: 47px;
+    margin-left: 30px;
+    margin-top: 35px;
+    text-indent: 15px;
+    width: 315px;
+}
+
+.SUBSCRIBE_submit {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #505050;
+    border-color: -moz-use-text-color -moz-use-text-color #444;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    height: 48px;
+    margin-left: 5px;
+    margin-top: 35px;
+    width: 120px;
+}
+
+footer {
+    background: #e7e7e8 none repeat scroll 0 0;
+    color: #1c2222;
+    margin-top: 30px;
+    display: block;
+}
+
+.icons a,
+.icons a:visited {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: top;
+}
+
+.icons .fa {
+    height: 40px;
+    padding: 8px;
+    text-align: center;
+    width: 40px;
+}
+
+.icons .fa-twitter {
+    background: #56a3d9 none repeat scroll 0 0;
+}
+
+.icons .fa-youtube {
+    background: #c02b29 none repeat scroll 0 0;
+}
+
+.icons .fa-facebook {
+    background: #3b5998 none repeat scroll 0 0;
+}
+
+.copyright {
+    font-size: 13px;
+    margin-top: 15px;
+    display: none;
+}
+
+.ipodtxt {
+    color: #696868;
+    font-size: 11px;
+}
+
+footer h1 {
+    color: #000;
+    font-size: 14px;
+    margin-bottom: 17px;
+    margin-top: 0;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
+
+footer li {
+    font-size: 13px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+footer li a {
+    color: #696868;
+    text-decoration: none;
+}
+
+.scrollup {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: transparent;
+    text-align: center;
+    line-height: 60px;
+    padding: 6px;
+    color: #fff;
+    z-index: 100;
+    display: none;
+    border-radius: 50%;
+}
+
+/* Responsive */
+
+@media (max-width: 1399.98px) {}
+
+@media (max-width: 1199.98px) {
+    .btn-primary {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    .title_SUBSCRIBE {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .top_bar {
+        display: none;
+    }
+
+    .icon-section .content {
+        font-size: 11px;
+    }
+
+    .SUBSCRIBE_input {
+        width: 240px;
+    }
+
+    .title_SUBSCRIBE {
+        font-size: 16px;
+    }
+
+    .width-100 {
+        width: 100%;
+    }
+
+    .order-second {
+        order: 2;
+
+    }
+}
+
+@media (max-width: 767.98px) {
+
+    .icon-section .content {
+        font-size: 16px;
+    }
+
+    .icon-section .content-b {
+        margin-bottom: 2rem;
+    }
+
+    .title_SUBSCRIBE {
+        line-height: normal;
+        font-size: 22px;
+        width: 100%;
+    }
+
+    .SUBSCRIBE {
+        height: 100%;
+        padding: 15px 0;
+    }
+
+    .img-slider img {
+        height: auto;
+    }
+
+    .site-logo {
+        width: 200px;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .icon-section .content {
+        font-size: 12px;
+    }
+
+    .SUBSCRIBE_input,
+    .SUBSCRIBE_submit {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .title_SUBSCRIBE {
+        font-size: 16px;
+    }
+
+}
+
+
+
+
+
+.owl-item {
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+}
+
+.owl-theme .owl-nav [class*='owl-']:hover {
+    background: none;
+}
